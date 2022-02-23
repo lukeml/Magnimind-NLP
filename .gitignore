@@ -139,3 +139,6 @@ models/
 *.h5
 *.pkl
 *.pth
+notebooks/.ipynb_checkpoints/*
+notebooks/data/*
+notebooks/cache/*
