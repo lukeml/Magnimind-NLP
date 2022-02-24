@@ -142,3 +142,4 @@ models/
 notebooks/.ipynb_checkpoints/*
 notebooks/data/*
 notebooks/cache/*
+notebooks/07-data/*
